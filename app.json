@@ -17,6 +17,10 @@
       "**/*"
     ],
     "ios": {
+      "config": {
+        "googleMapsApiKey": "AIzaSyBMUPDx8ldQu2pVOsdppsUjTLfSW6loDGY"
+      },
+      "bundleIdentifier": "com.travel.app",
       "supportsTablet": true
     },
     "android": {
